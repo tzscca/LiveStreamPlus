@@ -5,9 +5,9 @@
 
 
 # Servlets
-/FavoriteServlet
-/GameServlet
-/LoginServlet
-/RecommendationServlet
-/RegisterServlet
-/SearchServlet
+/FavoriteServlet.
+/GameServlet.
+/LoginServlet.
+/RecommendationServlet.
+/RegisterServlet.
+/SearchServlet.
